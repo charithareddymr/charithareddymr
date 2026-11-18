@@ -7,6 +7,7 @@ I've spent 3+ years in application and cloud security: threat modeling, secure c
 - 🔐 Previously: Lead Security Engineer at Cognizant (client: JPMorgan Chase); AppSec Engineer (client: T-Mobile)
 - 🎓 Now: Graduate Teaching Assistant for Computer Security at UB, running web security and pentesting labs
 - 🤖 Exploring: prompt-injection defense, AI threat modeling, OWASP Top 10 for LLMs
+- 🛠️ Currently building: a secure RAG chatbot with prompt-injection defenses
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/charitha-reddy-896204201)
 
 ---
