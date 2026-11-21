@@ -11,6 +11,13 @@ I've spent 3+ years in application and cloud security: threat modeling, secure c
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/charitha-reddy-896204201)
 
 ---
+#### 🚀 Projects
+
+- 🤖 [Secure RAG Chatbot](https://github.com/charithareddymr/secure-rag-chatbot): LLM chatbot with role-based access control and layered prompt-injection defenses, 40 automated attack tests
+- ☁️ [AWS Threat Containment](https://github.com/charithareddymr/aws-threat-containment): automated GuardDuty incident response (EC2 isolation, key deactivation, forensic snapshots) with Terraform and CI security scanning
+- 📰 [Fake News Detection](https://github.com/charithareddymr/fake-news-detection) (team project): RNN, LSTM and DistilBERT comparison; I fixed a collapsing RNN (F1 0.527 → 0.610) and led the error analysis
+
+---
 
 #### 🛠️ Tools & skills
 
