@@ -35,4 +35,4 @@ I've spent 3+ years in application and cloud security: threat modeling, secure c
 
 #### 📜 Certifications
 
-CompTIA Security+ · AWS Certified Cloud Practitioner · Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+CompTIA Security+ · AWS Certified Security – Specialty · Microsoft Certified: Azure Security Engineer Associate (AZ-500)
