@@ -14,9 +14,10 @@ I've spent 3+ years in application and cloud security: threat modeling, secure c
 #### 🚀 Projects
 
 - 🤖 [Secure RAG Chatbot](https://github.com/charithareddymr/secure-rag-chatbot): LLM chatbot with role-based access control and layered prompt-injection defenses, 40 automated attack tests
+- 🔑 [JWT Auditor](https://github.com/charithareddymr/jwt-auditor): a JWT/OAuth security tester that checks for alg:none, weak secrets, algorithm confusion, missing expiry and unverified signatures, with a vulnerable demo API and CI
 - ☁️ [AWS Threat Containment](https://github.com/charithareddymr/aws-threat-containment): automated GuardDuty incident response (EC2 isolation, key deactivation, forensic snapshots) with Terraform and CI security scanning
+- 🛡️ [IoT Botnet Detection](https://github.com/charithareddymr/iot-botnet-detection): 5 ML models on Bot-IoT with leakage-aware evaluation; showed the row ID alone scores a "perfect" 1.000, then built an honest detector (Random Forest, 0.979 balanced accuracy)
 - 📰 [Fake News Detection](https://github.com/charithareddymr/fake-news-detection) (team project): RNN, LSTM and DistilBERT comparison; I fixed a collapsing RNN (F1 0.527 → 0.610) and led the error analysis
-
 ---
 
 #### 🛠️ Tools & skills
